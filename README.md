@@ -25,4 +25,4 @@ I am a fourth year B.Tech student in Computer Science at University of Petroleum
 
 <br>
 
-- 📫 How to reach me *snehaaggarwal26701@gmail.com*
+- 📫 How to reach me **snehaaggarwal26701@gmail.com**
