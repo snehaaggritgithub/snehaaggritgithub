@@ -4,7 +4,7 @@
          width="45" />, I am Sneha Aggarwal</h1>
 
 <h3 align="center">
-I am a fourth year B.Tech student in Computer Science at University of Petroleum and Energy Studies (UPES), Dehradun. I am passionate about Software Development. Along with my grad studies, I've been working as a Summer intern at Here Technologies.
+I am a fourth year B.Tech student in Computer Science at University of Petroleum and Energy Studies (UPES), Dehradun. I am passionate about Software Development. Along with my grad studies, I had worked as a Summer Intern at Here Technologies.
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
