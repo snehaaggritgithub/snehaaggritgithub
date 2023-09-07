@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sneha Aggarwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Sneha Aggarwal</h1>
 <h3 align="center">I am a fourth year B.Tech student in Computer Science at University of Petroleum and Energy Studies (UPES), Dehradun. I am passionate about Software Development. Along with my grad studies, I had worked as a Summer Intern at Here Technologies.</h3>
 
 
