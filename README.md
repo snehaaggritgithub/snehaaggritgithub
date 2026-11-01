@@ -66,9 +66,5 @@
 </p>
 <br>
 <br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=snehaaggritgithub&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&card_width=350" alt="snehaaggritgithub" />
-<img src="https://streak-stats.demolab.com?user=snehaaggritgithub&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="snehaaggritgithub" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehaaggritgithub&theme=highcontrast&show_icons=true&hide_border=true&card_width=500" alt="snehaaggritgithub" /> -->
-</p>
 
 - 📫 How to reach me **snehaaggarwal26701@gmail.com**
