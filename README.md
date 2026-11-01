@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Sneha Aggarwal</h1>
-<h3 align="center">Hello, I'm Sneha, a Software Developer at Tata Technologies with experience in backend development, automation, and software engineering. I specialize in Python, Java, Spring Boot, and REST APIs, with hands-on experience in migration automation, system integration, and developing efficient software solutions. I'm passionate about continuous learning, exploring emerging technologies, and solving complex technical challenges.</h3>
+<h3 align="center">I am Sneha, a Software Developer at Tata Technologies with experience in backend development, automation, and software engineering. I specialize in Python, Java, Spring Boot, and REST APIs, with hands-on experience in migration automation, system integration, and developing efficient software solutions. I'm passionate about continuous learning, exploring emerging technologies, and solving complex technical challenges.</h3>
 
 
 <img align="right" alt="coding" width="425" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
